@@ -1,0 +1,20 @@
+{
+  "name": "clickyReact",
+  "version": "1.0.0",
+  "description": "React Project #1 - \"Clicky Game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tglennd90/clickyReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tglennd90/clickyReact/issues"
+  },
+  "homepage": "https://github.com/tglennd90/clickyReact#readme"
+}
