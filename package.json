@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/tglennd90/clickyReact/issues"
   },
-  "homepage": "https://github.com/tglennd90/clickyReact#readme"
+  "homepage": "https://github.com/tglennd90/clickyReact#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "react-bootstrap": "^1.0.1"
+  }
 }

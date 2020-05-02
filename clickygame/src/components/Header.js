@@ -1,8 +1,9 @@
 import React from "react";
+import '../App.css';
 
 function Header() {
     return (
-        <div class="sticky-top bg-success" id="header">
+        <div className="fixed-top bg-success" id="header">
             <ul id="headerUl">
                 <li>Clicky Game</li>
                 <li>Guess</li>
